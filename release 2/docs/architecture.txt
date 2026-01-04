@@ -1,0 +1,7 @@
+[Packet Tracer Temp Sensor]
+     UDP JSON (port 5000)
+   v
+[PC Dashboard + UDP Receiver]
+     Local processing (avg + alerts)
+   v
+[Web UI (Flask) 8000]
